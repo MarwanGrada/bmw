@@ -1,0 +1,61 @@
+
+body{
+  font-family: 'Quicksand', times;
+  margin: 0 auto;
+  width: 900px;
+ }
+
+img{
+  width:50px;
+  height: 50px;  
+}
+.facebook{
+  position: fixed;
+  top:0;
+  left:0;
+}
+
+.twitter{
+  position: fixed;
+  top:0px;
+  left:50px;
+}
+
+
+a{
+  text-decoration: none;
+  color:#54477D;
+}
+
+a:hover {
+  color: #66BC7C;
+}
+
+h1{
+  text-align: center;
+}
+
+.colmn-1{
+  width: 50%;
+  background-color: white;
+  float: left;
+  text-align: left;
+  display:inline-block;
+
+
+}
+
+.colmn-2{
+  width: 50%;
+  background-color:white;
+  float: right;
+
+}
+
+p {  
+  width: 50%;
+  padding-left: 100px;
+  /*padding-right:100px;*/  
+}
+
+
